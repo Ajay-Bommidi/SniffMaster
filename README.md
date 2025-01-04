@@ -16,6 +16,6 @@ SniffMaster is a powerful, real-time packet sniffing tool designed for network a
 To get started with SniffMaster, clone this repository and install the dependencies:
 
 ```bash
-git clone https://github.com/your-username/SniffMaster.git
+git clone https://github.com/Ajay-Bommidi/SniffMaster.git
 cd SniffMaster
 pip install -r requirements.txt
