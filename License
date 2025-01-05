@@ -6,10 +6,7 @@ This will prevent unnecessary files, like cache or compiled Python files, from b
 
 **LICENSE (MIT License)**
 
-You can choose the MIT License for open-source projects. Here's a basic template for the `LICENSE` file:
-
 **`LICENSE`**
-```txt
 MIT License
 
 Copyright (c) [2025] [B.Ajay]
