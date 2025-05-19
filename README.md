@@ -89,7 +89,6 @@ Ajay Bommidi
 
 
 🌐 Project Links
-🔗 GitHub Repository : 
 
 📄 Medium Blog (coming soon) 
 
