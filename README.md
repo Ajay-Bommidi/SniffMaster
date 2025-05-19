@@ -3,7 +3,7 @@ SniffMaster is a powerful and user-friendly command-line packet sniffing tool de
 
 Ideal for Cybersecurity Professionals, Network Engineers, CTFs, and learners who want to dig deeper into the packet-level details of network communication.
 
-
+![image](https://github.com/user-attachments/assets/25abd5c6-7ad5-43f1-8510-6b55a1eebe77)
 
 🚀 Features
 ✅ Live Packet Capture with color-coded terminal output
