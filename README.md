@@ -1,5 +1,5 @@
 # 🛡️ SniffMaster - Advanced Real-Time Packet Sniffer CLI Tool
-#### (working)
+#### (working) For Both Windows & Linux 
 #### SniffMaster is a powerful and user-friendly command-line packet sniffing tool designed for network analysis, diagnostics, and real-time traffic monitoring. It captures, analyzes, and categorizes packets by protocol (TCP, UDP, ARP, ICMP, DNS), providing instant insights and live statistics.
 
 ![image (5)](https://github.com/user-attachments/assets/ebf8b994-1000-4c20-90a5-ecc9519d83fb)
