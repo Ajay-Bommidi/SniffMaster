@@ -36,7 +36,7 @@ sudo python3 -m venv myenv
 source myenv/bin/activate
 sudo chown -R $USER:$USER ~/SniffMaster/myenv
 pip install -r requirements.txt
-sudo python sniffer.py
+sudo python Sniffer.py
 ```
 ## 📌 Requirements
 Python 3.6+
